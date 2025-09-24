@@ -13,4 +13,7 @@ With all that out of the way, here is the current state of the project:
 -A simple display in the top right with a dynamically sized vertical box based on the elements contained within.  
 Elements within currently are:  
 -Hornet's Position in the current scene X and Y values rounded to the second decimal place.  
--The currently loaded scene's name.  
+-The currently loaded scene's name.
+
+(Custom Configuration soon™) Controls:  
+Toggle Visibility: F2
